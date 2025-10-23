@@ -1,4 +1,3 @@
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -40,6 +39,10 @@
     </style>
 </head>
 <body>
+<footer>
+    <p>Elaborado por: <strong>Maria Jose Duque y Manuela Florez</strong></p>
+</footer>
+
 
     <h1>Explora las siguientes páginas</h1>
 
@@ -63,4 +66,5 @@
 
 </body>
 </html>
+
 
